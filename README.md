@@ -25,7 +25,7 @@ And we are trying to send the message to the message window and in order to do t
 4) We included a **FontAwesome** link to html code in order to use Awesome icons list provided by this website to make UI look minimal and good.
 5) We included **Fonts** link provided by google in order to make your site eye popping.
 
->In our messaging area we can use various **text generators** provided online but in this UI we basically, created a whole **lists of chats** that person uses in daily life. We are Randomly poking this list means we are randomly choosing one message from this list and using it as a reply if anyone sends a message in the massage window provided.
+In our messaging area we can use various **text generators** provided online but in this UI we basically, created a whole **lists of chats** that person uses in daily life. We are Randomly poking this list means we are randomly choosing one message from this list and using it as a reply if anyone sends a message in the massage window provided.
 
 ## Links Used 
 
