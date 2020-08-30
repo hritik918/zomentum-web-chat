@@ -18,7 +18,7 @@ This repository contains a **UI folder, readme and License file**. You can open 
 
 # Usage of Queries linked in code
 We linked various **JS queries** to provide responsive and free functionality to this UI.
-1) we used **jquery.min.j**s because it simplifies various tasks by writing less code.
+1) We used **jquery.min.j**s because it simplifies various tasks by writing less code.
 And we are trying to send the message to the message window and in order to do that we need this query to be included in HTML.
 2) We used **handlebars.min.js** because Handlebars helps us to differ the HTML code from JavaScript code and also helps us to write clean and efficiend code.
 3) We used **list.min.js** because it simply adds search, sort, filters and flexibility to plain HTML lists, tables, or anything and we are using search bar so we included this query.
