@@ -1,17 +1,31 @@
-# zomentum-web-chat
-
 # **What This UI do?**
 
 This UI is made by linking HTML, CSS and JAVA SCRIPT files. This UI provides a text messaging interface like Whatsapp or Skype.
 This UI is divided in 2 columns first and second column with different functionalities.
-First column in UI provides different contacts you previously texted or new conversation. These contacts are aligned in different rows
+
+1) First column in UI provides different contacts you previously texted or new conversation. These contacts are aligned in different rows
 which also shows some details like person is online or not and some information like when he was last seen online. This column also has
 a search bar on the top. We can search/filter contact using this contact search tab. 
-Second column takes upto 60% of UI section. This section has a top row that shows the details of contact whom we are talking too and 
+2) Second column takes upto 60% of UI section. This section has a top row that shows the details of contact whom we are talking too and 
 total number of messages we already delivered. This row has a star in the end to mark chat as favourite.
 Below this row it has a huge section which shows the messages we already delivered with our name tags. Just below this section we have our 
 Text area where we can type our message using Enter button or Send button that is available right below this text area. Whenever we send 
 our message then after a delay we will recieve a random message. We also added icons showing to attach the documents.
+
+## How to access this UI?
+
+This repository contains a UI folder, readme and License file. You can open the UI folder to access all the files used to design this interface. This folder contains index.html, script.js, style.css file with codes for designing and functionality written in it. To launch this UI you just have to open the index.html file. We already provided linking for both JS and CSS file inside the HTML code.
+
+## Usage of Queries linked in code
+We linked various JS queries to provide responsive and free functionality to this UI.
+1) we used jquery.min.js because it simplifies various tasks by writing less code.
+these tasks include AJAX Support, Event handling, Animation and many more.
+2) We used handlebars.min.js because Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. It simply makes the code clean.
+3) We used list.min.js because it simply adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
+4) We included a FontAwesome link to html code in order to use Awesome icons list provided by this website to make UI look minimal and good.
+5) We included Fonts link provided by google in order to make your site eye popping.
+
+In our messaging area we can use various text generators provided online but in this UI we basically, created a whole lists of chats that person uses in daily life. We are Randomly poking this list means we are randomly choosing one message from this list and using it as a reply if anyone sends a message in the massage window provided.
 
 ## Links Used 
 
